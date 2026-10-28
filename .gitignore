@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.p12
+*.p8
+*.mobileprovision
+*.pem
+*.key
+credentials.json
+service-account.json
+GoogleService-Info*.plist
